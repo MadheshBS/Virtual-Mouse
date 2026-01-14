@@ -2,12 +2,15 @@
 
 This project implements a virtual mouse using hand gestures and computer vision.
 
-## Features
-- Cursor movement using index finger
-- Left click and double click
-- Right click
-- Vertical and horizontal scrolling
-- Zoom in and zoom out gestures
+## ✋ Gesture Controls
+
+Gesture               | Action
+----------------------|------------------------------
+Index finger          | Move mouse cursor
+Index + Middle        | Left / Double click
+Index + Pinky         | Right click
+Middle finger         | Scroll (vertical & horizontal)
+Thumb + Index (pinch) | Zoom in / Zoom out
 
 ## Tech Stack
 - Python
